@@ -20,3 +20,8 @@
 ## 🌐 Follow Me
 <a href="https://discord.gg/xfr7MTgEUQ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://www.instagram.com/sleepysoong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+## 📝 Blog
+<p>
+  <a href="https://sleepysoong.tistory.com/"><img src="https://img.shields.io/badge/Blog-555263?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+</p>
