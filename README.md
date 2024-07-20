@@ -9,7 +9,7 @@
 - ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## 📈 GitHub Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=sleepysoong&theme=dracula)
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepysoong&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sleepysoong&theme=dracula)
 
 ## 📫 Contact Me
