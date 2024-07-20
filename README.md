@@ -16,10 +16,10 @@
 <a href="mailto:hyunnn1123@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 🌐 Follow Me
-<a href="https://discord.gg/xfr7MTgEUQ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.instagram.com/sleepysoong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <p>
-  <a href="https://sleepysoong.tistory.com/"><img src="https://img.shields.io/badge/Blog-555263?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+  <a href="https://discord.gg/xfr7MTgEUQ"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="display: inline-block;"/></a>
+  <a href="https://www.instagram.com/sleepysoong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="display: inline-block;"/></a>
+  <a href="https://sleepysoong.tistory.com/"><img src="https://img.shields.io/badge/Blog-555263?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog" style="display: inline-block;"/></a>
 </p>
 
 ## 📈 GitHub Activity
