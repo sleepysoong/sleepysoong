@@ -14,8 +14,8 @@
 </p>
 
 ## 📈 GitHub Activity
-![SleepySoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&theme=dracula)
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sleepysoong&theme=dracula)
+![SleepySoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&theme=dracula)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sleepysoong&theme=dracula)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sleepysoong&layout=compact&theme=dracula)
 
