@@ -23,5 +23,4 @@
 </p>
 
 ## 📈 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=minimal"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepysoong&langs_count=4&count_private=true&theme=minimal"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=minimal"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepysoong&langs_count=4&count_private=true&theme=minimal"/>
