@@ -23,4 +23,4 @@
 </p>
 
 ## 📈 GitHub Activity
-![SleepySoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&theme=minimal)
+![SleepySoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&theme=minimal&include_all_commits=true)
