@@ -23,7 +23,4 @@
 </p>
 
 ## 📈 GitHub Activity
-<div style="display: flex; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&include_all_commits=true&count_private=true&theme=minimal" style="height: 150px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleepysoong&langs_count=4&layout=compact&theme=minimal" style="height: 150px;"/>
-</div>
+![SleepySoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleepysoong&show_icons=true&theme=minimal)
