@@ -1,5 +1,5 @@
 # 👨‍💻 About Me
-안녕하세요! 열심히 프로그래밍을 공부하고 싶은 노는게 제일 좋은 20살 송의현입니다 ( ͡~ ͜ʖ ͡°)
+안녕하세요! 열심히 프로그래밍을 공부하고 싶은 노는게 제일 좋은 21살 송의현입니다 ( ͡~ ͜ʖ ͡°)
 
 ![Commit Frequency](https://img.shields.io/github/commit-activity/w/sleepysoong/sleepysoong)
 ![Last Commit](https://img.shields.io/github/last-commit/sleepysoong/sleepysoong)\
